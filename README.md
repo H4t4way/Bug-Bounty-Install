@@ -21,7 +21,8 @@ Seclists collection
 
 ## Utilizzo
 
-```git clone https://github.com/rea94/bb.git
+```
+git clone https://github.com/rea94/bb.git
 cd bb
 chmod +x install.sh
 ./install.sh
