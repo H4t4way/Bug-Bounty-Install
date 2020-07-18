@@ -1,0 +1,2 @@
+# bb
+Bug Bounty scripts
